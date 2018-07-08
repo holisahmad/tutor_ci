@@ -17,6 +17,7 @@ class Site_m extends CI_Model {
 	public function datasaya()
 	{
 		$data = array(
+			
 			'satu' => array(
 			'judul' => 'Admin - Holis',
 			'header' => 'Admin - Dashboard'
