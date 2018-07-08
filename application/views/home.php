@@ -1,5 +1,6 @@
+//tempat header
 <?php $this->load->view('header'); ?>
-
+    //tempat navigasi
     <div id="wrapper">
         <?php $this->load->view('nav'); ?>
 
@@ -16,5 +17,6 @@
 
     </div>
     <!-- /#wrapper -->
+    //tempat footer
     <?php $this->load->view('footer'); ?>
    
