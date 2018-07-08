@@ -26,6 +26,13 @@ class Site_m extends CI_Model {
 
 	}
 
+	data = array(
+		'satu' => array(
+		'judul' => 'Admin - Holis',
+		'header' => 'Admin - Dashboard'
+		)
+	);
+
 }
 
 /* End of file site_m.php */
