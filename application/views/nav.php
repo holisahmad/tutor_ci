@@ -234,19 +234,19 @@
                                 </span>
                             </div>
                             <!-- /input-group -->
-                          
                         </li>
-                        <li class="home">
-                            <a class="" href="javascript:void(0);" onclick="update_url('home');"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
+
+                        <li class="site">
+                            <a class="" href="<?php echo base_url('site')?>" onclick=""><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
                         </li>
               		    <li>
                             <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Master<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li class="area">
-                                    <a href="javascript:void(0);" onclick="update_url('area');">Area</a>
+                                    <a href="<?php echo base_url('site/area')?>" onclick="javascript:void(0);">Area</a>
                                 </li>
                                 <li class="bagian">
-                                    <a href="javascript:void(0);" onclick="update_url('bagian');">Bagian</a>
+                                    <a href="<?php echo base_url('site/bagian')?>" onclick="update_url('bagian');">Bagian</a>
                                 </li>
                                 <li class="kategori">
                                     <a href="javascript:void(0);" onclick="update_url('kategori');">Kategori</a>
