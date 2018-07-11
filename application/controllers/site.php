@@ -9,8 +9,8 @@ class Site extends CI_Controller {
 		$this->load->model('site_m');
 		$this->load->model('inputdatamodel');
 		
-		$this->load->helper(array('form', 'url'));
-		$this->load->library('form_validation');
+	//	$this->load->helper(array('form', 'url'));
+	//	$this->load->library('form_validation');
 	}
 
 	public function index()

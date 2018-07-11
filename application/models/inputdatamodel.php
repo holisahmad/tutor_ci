@@ -9,8 +9,7 @@ class Inputdatamodel extends CI_Model {
         parent::__construct();
         //Do your magic here
     }
-    
-    
+     
     public function index() 
     {
         
