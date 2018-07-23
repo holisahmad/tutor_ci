@@ -110,5 +110,5 @@
 					</div>
 					<!-- /.col-lg-12 -->
 				</div>
-                <!-- <?php print_r($data); ?> -->
+                <!-- <?php //print_r($data); ?> -->
 		<!-- Page-Level Demo Scripts - Tables - Use for reference -->
